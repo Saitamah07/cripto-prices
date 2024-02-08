@@ -1,8 +1,13 @@
-# React + Vite
+<h1>CryptoPrice-Checker</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>
+CryptoPrice-Checker es una aplicación web que te permite cotizar el precio de las criptomonedas más famosas en tiempo real. La aplicación utiliza la API de criptomonedas para obtener datos precisos y actualizados sobre los precios. Está construida con React y utiliza Tailwind CSS para un diseño moderno y responsivo.
+</p>
 
-Currently, two official plugins are available:
+<h2>Características</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<ul>
+<li>Cotización en tiempo real: Obten información actualizada sobre los precios de las criptomonedas más populares.</li>
+<li>Interfaz intuitiva: Diseño limpio y fácil de usar que permite a los usuarios navegar y obtener información rápidamente.</li>
+<li>Filtros personalizados: Filtra las criptomonedas según tus preferencias para centrarte en las que más te interesan.</li>
+</ul>
